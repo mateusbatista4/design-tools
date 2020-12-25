@@ -16,3 +16,5 @@ Repo with some design tools that I use to build my applications
   - [HTML5 Templates](https://html5up.net/)
   
   - [Bootstrap Themes](https://bootswatch.com/)
+
+  - [Web Dashboards](https://athemes.com/collections/free-bootstrap-admin-templates/)
